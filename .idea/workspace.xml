@@ -19,7 +19,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -41,7 +42,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\alikh\\Desktop\\моб\\lab1\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\alikh\\Desktop\\моб\\lab2\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -64,7 +65,7 @@
       <workItem from="1773948161894" duration="144000" />
       <workItem from="1773948318699" duration="193000" />
       <workItem from="1773948551448" duration="6398000" />
-      <workItem from="1776581692689" duration="3960000" />
+      <workItem from="1776581692689" duration="7246000" />
     </task>
     <servers />
   </component>
