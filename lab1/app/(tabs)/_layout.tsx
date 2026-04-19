@@ -1,0 +1,29 @@
+import { Tabs } from 'expo-router';
+import React from 'react';
+
+export default function TabLayout() {
+    return (
+        <Tabs screenOptions={{ headerShown: false }}>
+            <Tabs.Screen
+                name="index"
+                options={{
+                    title: 'Головна',
+                }}
+            />
+
+            <Tabs.Screen
+                name="profile"
+                options={{
+                    title: 'Профіль',
+                }}
+            />
+
+            <Tabs.Screen
+                name="about"
+                options={{
+                    title: 'Про додаток',
+                }}
+            />
+        </Tabs>
+    );
+}
