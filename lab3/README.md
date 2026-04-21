@@ -31,8 +31,8 @@
 ```
 lab3/
 ├── app/
-│   ├── index.tsx
-│   ├── index.tsx
+│   ├── register.tsx
+│   ├── register.tsx
 │   ├── _layout.tsx
 │   └── settings.tsx
 ├── context/

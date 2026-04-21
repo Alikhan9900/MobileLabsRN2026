@@ -28,10 +28,10 @@ Expo, ознайомитися зі структурою React Native засто
 ```
 lab1/
 ├── app/
-│   ├── index.tsx
+│   ├── register.tsx
 │   └── (tabs)/
-│       ├── index.tsx
-│       ├── index.tsx
+│       ├── register.tsx
+│       ├── register.tsx
 │       ├── profile.tsx
 │       └── about.tsx
 ├── assets/

@@ -24,7 +24,7 @@
 lab4/
 ├── app/
 │   ├── _layout.tsx       # Навігація
-│   ├── index.tsx         # Файловий менеджер
+│   ├── register.tsx         # Файловий менеджер
 │   ├── editor.tsx        # Редактор файлу
 │   └── info.tsx          # Інформація про файл
 └── README.md

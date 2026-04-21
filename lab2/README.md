@@ -39,11 +39,11 @@ SectionList.
 ```
 lab2/
 ├── app/
-│   ├── index.tsx           ← Drawer (бокове меню)
+│   ├── register.tsx           ← Drawer (бокове меню)
 │   ├── contacts.tsx          ← SectionList (контакти)
 │   └── news/
-│       ├── index.tsx       ← Stack (вкладена навігація)
-│       ├── index.tsx         ← список новин (FlatList)
+│       ├── register.tsx       ← Stack (вкладена навігація)
+│       ├── register.tsx         ← список новин (FlatList)
 │       └── details.tsx       ← деталі новини
 ├── components/
 │   └── CustomDrawer.tsx
