@@ -31,9 +31,9 @@
 ```
 lab3/
 ├── app/
-│   ├── _layout.tsx
 │   ├── index.tsx
-│   ├── challenges.tsx
+│   ├── index.tsx
+│   ├── _layout.tsx
 │   └── settings.tsx
 ├── context/
 │   ├── ThemeContext.tsx

@@ -37,7 +37,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/alikh/Desktop/моб/lab3/app",
+    "last_opened_file_path": "C:/Users/alikh/Desktop/моб/lab4/app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alikh\Desktop\моб\lab4\app" />
       <recent name="C:\Users\alikh\Desktop\моб\lab3\app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -74,7 +75,7 @@
       <workItem from="1773948161894" duration="144000" />
       <workItem from="1773948318699" duration="193000" />
       <workItem from="1773948551448" duration="6398000" />
-      <workItem from="1776581692689" duration="15344000" />
+      <workItem from="1776581692689" duration="18244000" />
     </task>
     <servers />
   </component>
